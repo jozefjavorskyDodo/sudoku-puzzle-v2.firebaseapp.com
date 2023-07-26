@@ -1,0 +1,15 @@
+* {
+    user-select: none !important;
+    font-weight: 500 !important;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(122, 122, 122);
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}

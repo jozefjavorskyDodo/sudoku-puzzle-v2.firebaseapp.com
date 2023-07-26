@@ -1,0 +1,29 @@
+h1 {
+    text-decoration: overline underline;
+    margin-left: 4cm;
+}
+
+table {
+    border: 1mm solid rgb(0, 0, 0);
+    border-radius: 1mm;
+    margin-left: 3cm;
+}
+
+td {
+    border: 1mm solid rgb(0, 0, 0);
+    padding: 0 2mm 0 2mm;
+    border-radius: 1mm;
+    color: rgb(122, 122, 122);
+}
+
+button {
+    margin-left: 5mm;
+}
+
+#generate-bttn {
+    margin-left: 33mm !important;
+}
+
+#solve-bttn {
+    visibility: hidden;
+}
